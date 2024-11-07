@@ -1,0 +1,10 @@
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
